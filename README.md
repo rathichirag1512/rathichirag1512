@@ -6,7 +6,7 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-<h1 align="center"> 𝐻𝑒𝓁𝓁𝑜 𝒢𝓊𝓎𝓈!🤠, Chirag 𝓉𝒽𝒾𝓈 𝓈𝒾𝒹𝑒 </h1>
+<h1 align="center"> 𝐻𝑒𝓁𝓁𝑜 𝒢𝓊𝓎𝓈!🤠, 𝓉𝒽𝒾𝓈 𝓈𝒾𝒹𝑒 </h1>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -40,19 +40,19 @@
 
 <img align="right" src="https://github.com/abhiishek-10/abhiishek-10/blob/main/github.gif?raw=true" style="max-width: 100%; display: inline-block;" width='400' >
 
-- 🔭 I’m currently working on **AI Generated Scripts Algorithms**👨‍
+- 🔭 I’m currently working on **Backend Development Using Java**👨‍
 
-- 🌱 I’m currently learning **Microservices in Full-Stack**👀
+- 🌱 I’m currently learning **Microservices in Java Backend**👀
 
-- 👯 I’m looking to collaborate on **Web & ML Projects**⛳
+- 👯 I’m looking to collaborate on **Spring Boot & Web Projects**⛳
 
-- 💬 Ask me about **DSA, Web & Machine Learning Development**📱
+- 💬 Ask me about **DSA,Java and UI/UX Designing**📱
 
-- 🤖 I'm Co-Founder and Tech-Lead of **Insights Club at VIT**📖
+- 🤖 I'm Co-Founder and Tech-Lead of **Rajasthani Club at VIT**📖
 
-- 🥅 2024 Goals: Contribute more to **Open Source projects**🥇
+- 🥅 2025 Goals: Contribute more to **Open Source projects**🥇
 
-- 📫 You can reach me at **shrey.srivastava2101@gmail.com**🎃
+- 📫 You can reach me at **rathichirag1525@gmail.com**🎃
 
 - 😜 Fun fact: **Only Rehaan know's🎗Playing with 💖**
 
