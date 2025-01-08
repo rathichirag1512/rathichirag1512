@@ -44,7 +44,7 @@
 
 - 💬 Ask me about **DSA,Java Development and UI/UX Designing**📱
 
-- 🤖 I'm Co-Founder and Tech-Lead of **Rajasthani Club at VIT**📖
+- 🤖 I'm Core Team Member and Tech-Lead of **Software Development Club at VIT**📖
 
 - 🥅 2025 Goals: Contribute more to **Open Source projects**🥇
 
