@@ -36,7 +36,7 @@
 
 <img align="right" src="https://github.com/abhiishek-10/abhiishek-10/blob/main/github.gif?raw=true" style="max-width: 100%; display: inline-block;" width='400' >
 
-- 🔭 I’m currently working on **Backend Development Using Java**👨‍
+- 🔭 I’m currently working as **Backend Engineer at NIYO SOLUTIONS**👨‍
 
 - 🌱 I’m currently learning **Microservices in Java Backend**👀
 
