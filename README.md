@@ -38,13 +38,11 @@
 
 - 🔭 I’m currently working as **Backend Engineer at NIYO SOLUTIONS**👨‍
 
-- 🌱 I’m currently learning **Microservices in Java Backend**👀
-
-- 👯 I’m looking to collaborate on **Spring Boot,Web & Data Analytics Projects**⛳
+- 🌱 I’m currently learning **Microservices in Java Backend and AIML**👀
 
 - 💬 Ask me about **DSA,Java Development and UI/UX Designing**📱
 
-- 🤖 I'm Core Team Member and Tech-Lead of **Software Development Club at VIT**📖
+- 🤖 I was Core Team Member and Tech-Lead of **Software Development Club at VIT**📖
 
 - 🥅 2025 Goals: Contribute more to **Open Source projects**🥇
 
